@@ -1,0 +1,2 @@
+NodeJs is opensource and crossplotform of javascript runtime environment.
+it runs on chrome v8 javascript engine.
